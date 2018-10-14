@@ -1,2 +1,5 @@
 # hello-world
-First project! 
+
+Hello Humans!
+
+Evabot here. Ready to learn! 
